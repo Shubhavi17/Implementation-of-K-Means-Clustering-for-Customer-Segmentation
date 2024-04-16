@@ -74,9 +74,8 @@ plt.show()
 ![Screenshot 2024-04-16 162443](https://github.com/Shubhavi17/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/150005085/b9eeaf53-6f79-49b6-97ae-e295418e1b1a)
 ![Screenshot 2024-04-16 162454](https://github.com/Shubhavi17/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/150005085/53959458-8d9d-496a-98bf-8f245a8788f3)
 ![Screenshot 2024-04-16 184328](https://github.com/Shubhavi17/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/150005085/ea94940d-3c3f-436d-8f87-68ecd6b70e24)
+![Screenshot 2024-04-16 162506](https://github.com/Shubhavi17/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/150005085/74bc2bb9-e5ad-4621-831c-df2bfdb2f7db)
 ![Screenshot 2024-04-16 162506]![Screenshot 2024-04-16 162524](https://github.com/Shubhavi17/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/150005085/b3cd077f-a34b-49eb-bb5a-446bfaadd43f)
-![Screenshot 2024-04-16 162524](https://github.com/Shubhavi17/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/150005085/76c58b9f-2270-402a-b969-6df0208b47a6)
-
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
